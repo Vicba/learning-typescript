@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Anonymous+Pro&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: "Anonymous Pro", monospace;
+}
+
+.icon {
+  transition: fill 0.1s;
+}
+
+.icon:hover {
+  fill: #ffffff;
+}
