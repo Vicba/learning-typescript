@@ -5,7 +5,8 @@ Also my tailwindcss skills needs to get better by these.
 - tue: expense tracker
 - wed: todolist
 - thur: password generator
-
+- Fri: ip-tracker
+  
 ### Design
 most design is either by myself or the from a [frontendmentor challenge](https://www.frontendmentor.io/challenges)
 
